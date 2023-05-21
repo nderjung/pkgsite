@@ -188,6 +188,7 @@ var TopLevelDomains = map[string]bool{
 	"wtf":         true,
 	"xyz":         true,
 	"yandex":      true,
+	"zip":         true,
 	"zone":        true,
 }
 
